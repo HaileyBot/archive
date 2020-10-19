@@ -1,4 +1,4 @@
-[HaileyBot Site Archive][1] by [cheesits456][2] is licensed under [CC BY-SA 4.0][3]  
+All content within "[HaileyBot Site Archive][1] by [cheesits456][2]" is licensed under [CC BY-SA 4.0][3], **unless otherwise indicated**  
 [![CC][4]][3] [![BY][5]][3] [![SA][5]][3]
                                                                                                    
 [1]: https://archive.haileybot.com
